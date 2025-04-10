@@ -9,7 +9,6 @@ const swaggerUi = require("swagger-ui-express");
 const swaggerDocument = require("./swagger_output.json");
 
 
-
 const PORT = process.env.PORT;
 const DB_URL = process.env.DB_URL;
 
